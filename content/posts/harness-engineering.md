@@ -1,7 +1,7 @@
 ---
 title: "Harness Engineering: 编写可靠 AI Agent 系统的艺术"
 date: 2026-03-17
-draft: true
+draft: false
 tags: ["AI", "软件工程", "Harness"]
 categories: ["技术趋势"]
 summary: "探索什么是 Harness Engineering，以及为什么它在现代软件工程中变得至关重要。"
